@@ -1,2 +1,5 @@
 print("Hello world!")
 print("Hello world!")
+print("Это версия из newbr")
+print("Это версия из newbr")
+print("Это версия из newbr")
